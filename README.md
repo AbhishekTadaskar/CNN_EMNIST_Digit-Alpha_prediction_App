@@ -3,7 +3,7 @@
 A web app built with **Streamlit** and **TensorFlow** that can recognize **handwritten digits (0–9)**, **uppercase letters (A–Z)**, and **lowercase letters (a–z)** using a CNN trained on the **EMNIST ByClass dataset**.
 
 You can draw directly on a digital canvas or upload an image of a handwritten character, and the app will predict which character it is — along with the top 5 most likely predictions.
----
+
 👉 **Live Demo:**[https://cnnemnistdigit-alphapredictionapp-abhishektadaskar.streamlit.app/](https://cnnemnistdigit-alphapredictionapp-abhishektadaskar.streamlit.app/)
 ---
 
